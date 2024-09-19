@@ -3,10 +3,7 @@
 - 👾  I'm currently taking a software development course to improve my skills.
 - 📫  How to reach me **atakan335@gmail.com**
 - ⚡  My hobbies are skiing🎿,  playing basketball🏀,  Software💻...
-<h3> 💬Contact</h3>
-- (https://www.linkedin.com/in/atakan) <br>
 
-- [Email](mailto:atakan335@gmail.com)
 
 <!--
 **celikatakan/celikatakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
