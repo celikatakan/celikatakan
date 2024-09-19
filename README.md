@@ -4,7 +4,8 @@
 - 📫  How to reach me **atakan335@gmail.com**
 - ⚡  My hobbies are skiing🎿,  playing basketball🏀,  Software💻...
 <h3> 💬Contact</h3>
-- [LinkedIn](https://www.linkedin.com/in/atakan)
+- (https://www.linkedin.com/in/atakan) <br>
+
 - [Email](mailto:atakan335@gmail.com)
 
 <!--
