@@ -1,12 +1,8 @@
 <h2>☄️ Hey! I'm Atakan.</h2>
 
 - 👾  I'm currently taking a software development course to improve my skills.
-
-
-
-
-
 - 📫  How to reach me **atakan335@gmail.com**
+- ⚡  My hobbies are skiing🎿, playing basketball🏀, Software💻
 
 <!--
 **celikatakan/celikatakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
