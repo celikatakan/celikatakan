@@ -1,5 +1,5 @@
-Hey there! 👋 I'm Atakan.
-🌟 Welcome to my GitHub profile! I'm a passionate and driven software development student eager to improve my skills and take on new challenges in the tech world. Here's a little more about me:
+Hey there! 👋 I'm Atakan. <br>
+🌟 Welcome to my GitHub profile! I'm a passionate and driven software development student eager to improve my skills and take on new challenges in the tech world. Here's a little more about me: <hr>
 
 🚀 About Me:
 🌱 Currently enrolled in a Software Development Course to sharpen my skills and deepen my understanding of modern technologies.
