@@ -30,4 +30,4 @@
 <p>Feel free to check out my repositories and projects, and don't hesitate to connect with me!</p>
 
 <h3>Let's build something amazing together! 🚀</h3>
-<p><em>Thank you for taking the time to check out my profile!</em> 😊</p>
+<h3><em>Thank you for taking the time to check out my profile!</em> 😊</h3>
