@@ -20,7 +20,6 @@ I prioritize continuous learning and developing projects with new technologies. 
 
 <h3>📫 Get in Touch:</h3>
 <p>You can reach me via email: <strong>atakan335@gmail.com</strong></p>
-<p>Feel free to check out my repositories and projects, and don't hesitate to connect with me!</p>
 
 <h3>Let's build something amazing together! 🚀</h3>
 <h3><em>Thank you for taking the time to check out my profile!</em> 😊</h3>
