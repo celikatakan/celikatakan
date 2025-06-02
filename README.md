@@ -11,7 +11,6 @@
 </ul>
 
 ### Languages and Tools
-
 ---
 <ul>
     <li><strong>Languages</strong>: C#, JavaScript, HTML, CSS</li>
