@@ -10,8 +10,8 @@
     <li>🎓 Eager to collaborate on <strong>open-source projects</strong> and contribute to the developer community.</li>
 </ul>
 
-### Languages and Tools
----
+<h3 style="margin-bottom: 5px;">Languages and Tools</h3>
+<hr style="margin-top: 0;">
 <ul>
     <li><strong>Languages</strong>: C#, JavaScript, HTML, CSS</li>
     <li><strong>Frameworks</strong>: ASP.NET, MVC, Bootstrap</li>
