@@ -1,5 +1,5 @@
 <h2>Hey there! 👋 I'm <strong>Atakan</strong>.</h2>
-<h3>About Me</h3>
+<h2>About Me</h2>
 <ul>
 I prioritize continuous learning and developing projects with new technologies. By sharing these projects on GitHub, I aim to improve myself and contribute to others.
 </ul>
