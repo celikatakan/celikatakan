@@ -1,18 +1,9 @@
 <h2>Hey there! 👋 I'm <strong>Atakan</strong>.</h2>
-
-<p>🌟 Welcome to my GitHub profile! I'm a passionate and driven <strong>software development student</strong> eager to improve my skills and take on new challenges in the tech world. Here's a little more about me:</p>
-
-<h3>🚀 About Me:</h3>
+<h3>About Me</h3>
 <ul>
-    <li>🌱 Currently enrolled in a <strong>Software Development Course</strong> to sharpen my skills and deepen my understanding of modern technologies.</li>
-    <li>👨‍💻 Constantly exploring <strong>new tools</strong> and frameworks to stay up-to-date with the latest industry trends.</li>
-    <li>🛠️ Always working on personal projects to apply what I've learned and build my portfolio.</li>
-    <li>🎓 Eager to collaborate on <strong>open-source projects</strong> and contribute to the developer community.</li>
+I prioritize continuous learning and developing projects with new technologies. By sharing these projects on GitHub, I aim to improve myself and contribute to others.
 </ul>
 <h2>Languages and Tools</h2>
-### Languages and Tools
----
-
 <ul>
     <li><strong>Languages</strong>: C#, JavaScript, HTML, CSS</li>
     <li><strong>Frameworks</strong>: ASP.NET, MVC, Bootstrap</li>
