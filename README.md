@@ -9,7 +9,7 @@
     <li>🛠️ Always working on personal projects to apply what I've learned and build my portfolio.</li>
     <li>🎓 Eager to collaborate on <strong>open-source projects</strong> and contribute to the developer community.</li>
 </ul>
-
+<h2>Languages and Tools</h2>
 ### Languages and Tools
 ---
 
