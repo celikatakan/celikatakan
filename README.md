@@ -1,8 +1,8 @@
 <h2>Hey there! 👋 I'm <strong>Atakan</strong>.</h2>
 <h2>About Me</h2>
-<ul>
+
 I prioritize continuous learning and developing projects with new technologies. By sharing these projects on GitHub, I aim to improve myself and contribute to others.
-</ul>
+
 <h2>Languages and Tools</h2>
 <ul>
     <li><strong>Languages</strong>: C#, JavaScript, HTML, CSS</li>
@@ -11,7 +11,7 @@ I prioritize continuous learning and developing projects with new technologies. 
     <li><strong>Version Control</strong>: Git & GitHub</li>
 </ul>
 
-<h3>🎯 Fun Facts & Hobbies:</h3>
+<h2> Fun Facts & Hobbies:</h2>
 <ul>
     <li>🎿 <strong>Skiing</strong> enthusiast: Love hitting the slopes when I get the chance!</li>
     <li>🏀 <strong>Basketball</strong> is my go-to sport for staying active and having fun.</li>
